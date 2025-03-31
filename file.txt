@@ -1,0 +1,2 @@
+1
+1 git add . git commit -m Commit 1 echo 2 git add . git commit -m Commit 2 echo 3 git add . git commit -m Commit 3
